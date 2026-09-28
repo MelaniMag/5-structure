@@ -1,5 +1,5 @@
 html {
-    background-color: rgb(250, 191, 250);
+    background-color: rgb(209, 205, 209);
 }
 
 body {
@@ -10,7 +10,43 @@ h1 {
     margin: 0;
 }
 
+
+
+.branded-border {
+    border-bottom: 5px dotted rgb(235, 102, 102);
+    padding-bottom: 10px;
+}
+
 .main-header {
     background-color:blanchedalmond;
     padding: 30px;
+}
+
+.vib-header {
+    background-color: rgb(168, 236, 168);
+    color: rgb(57, 112, 79);
+    padding: 20px;
+    margin: 20px 0px;
+
+}
+
+.vib-links {
+    color: rgb(57 112 79);
+}
+
+.vib-main {
+    background-color: aquamarine;
+    color: rgb(41, 123, 142);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.vib-footer {
+    background-color: aqua;
+    color: rgb(1, 100, 192);
+    padding: 20px;
+}
+
+.vib-addre {
+    color: rgb(1, 100, 192); 
 }
