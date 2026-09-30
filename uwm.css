@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+.main-header {
+    background-color: #f5f59b;
+    color: #6d6031;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.uwm-links {
+    color: #6d6031;
+}
+
+.uwm-main {
+    background-color: rgb(32, 31, 31);
+    color: #aeb7be;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.main-links {
+    color: #aeb7be;
+}
+
+.uwm-footer {
+    background-color: gold;
+    padding: 20px;
+    color: rgb(193, 108, 22);
+}
+
+.footer-links {
+    color: rgb(193, 108, 22);
+}
